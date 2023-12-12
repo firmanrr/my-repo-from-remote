@@ -19,18 +19,20 @@ body {
 #profile-name{
     text-align: center;
 }
-<<<<<<< HEAD
+
 #footer{
     width: 100%;
     height: 50px;
+    line-height: 50px;
     border-color: burlywood;
-=======
+    text-align: center;
+    color: white;
+}
 #header{
     width: 100%;
     height: 50px;
     line-height: 50px;
     background-color: burlywood;
->>>>>>> development-1.0
     text-align: center;
     color: white;
 }
